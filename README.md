@@ -1,39 +1,64 @@
-# Hey, I'm Jacob Deepu 👋  
+# Hi, I’m Jacob Deepu 👋
 
-🖥️ **Fullstack Web Developer** | 🚀 **Freelancer** | 🌐 **Laravel, .NET & WordPress Expert**  
+I’m a software engineer with 4+ years of experience working on backend systems in production. Most of my work has been in C#/.NET and PHP/Laravel, with a focus on keeping systems stable, improving database performance, and automating deployments.
 
-I specialize in **building and optimizing web applications, e-commerce platforms, and WordPress solutions**. Whether you need a **new website, a feature upgrade, or performance improvements**, I can help you achieve your goals.  
+I’ve worked across different codebases and stacks depending on the problem, and I’m comfortable stepping outside my main role when needed - including frontend and mobile work.
 
-## 🔧 **Tech Stack & Expertise**  
+---
 
-![Backend](https://img.shields.io/badge/Backend-Laravel%20%7C%20.NET-blue)  
-![Databases](https://img.shields.io/badge/Databases-MySQL%20%7C%20PostgreSQL-orange)  
-![Frontend](https://img.shields.io/badge/Frontend-TailwindCSS%20%7C%20Alpine.js%20%7C%20Livewire-green)  
-![E-commerce](https://img.shields.io/badge/E--Commerce-Shopify%20%7C%20WooCommerce%20%7C%20Custom-lightgrey)  
-![WordPress](https://img.shields.io/badge/WordPress-Theme%20%7C%20Plugin%20Development-blueviolet)  
-![APIs](https://img.shields.io/badge/APIs-RESTful%20%7C%20GraphQL-yellow)  
+## What I work on
 
-## 💡 **What I Offer**  
+- Backend services and APIs (ASP.NET Core, Laravel)
+- Database design and performance tuning (PostgreSQL, SQL Server, Oracle)
+- CI/CD pipelines and deployments (Docker, GitHub Actions)
+- Maintaining and improving existing production systems
 
-✅ **Website & Web App Development** – Full-stack solutions tailored to your business needs.  
-✅ **E-Commerce Platforms** – Custom **WooCommerce, Shopify**, and Laravel-based e-commerce stores with secure payment integration.  
-✅ **WordPress Development** – Custom themes, plugins, and performance optimization.  
-✅ **Feature Upgrades for Existing Apps** – Adding new functionalities to improve user experience.  
-✅ **Application Performance Optimization** – Speed, security, and database improvements to enhance efficiency.  
-✅ **Multi-Tenant & SaaS Solutions** – Scalable architectures for growing businesses.  
-✅ **API Development & Integrations** – Secure REST & GraphQL APIs with third-party services.  
+---
 
-## 🚀 **Why Work With Me?**  
+## Experience highlights
 
-✔️ **Feature Enhancements & Performance Optimization** – Helping businesses scale efficiently.  
-✔️ **End-to-End Web Development** – From design to deployment, I handle it all.  
-✔️ **E-Commerce & WordPress Expertise** – Scalable and secure solutions for online businesses.  
-✔️ **Client-Centric Approach** – Smooth communication, quality results, and on-time delivery.  
+- Designed and maintained backend systems for an Insurance CRM using ASP.NET Core and PostgreSQL  
+- Worked on the Wonderla Ride Monitoring System, supporting real-time uptime tracking and KPI reporting using .NET Framework and Oracle  
+- Improved ERP reporting performance by optimizing queries and indexes, reducing load times from minutes to milliseconds  
+- Built Laravel-based web applications including admission management systems and event platforms  
+- Stepped in to support a Flutter mobile app during resource gaps, fixing production issues and shipping features
 
-## 📬 **Let’s Work Together!**  
+---
 
-📧 **[Email Me](mailto:d2jdeepu@gmail.com)**  
-🌐 **[LinkedIn](https://www.linkedin.com/in/jacob-deepu)**  
-🐦 **[Twitter](https://twitter.com/deepu00jd)**  
+## Tech stack
 
-🚀 Ready to improve your application or build something amazing? Let’s connect!  
+**Languages**
+- C#, PHP, JavaScript, TypeScript, Dart
+
+**Backend & Frameworks**
+- .NET Core, ASP.NET MVC, Laravel, REST API design
+
+**Frontend & Mobile**
+- React, Flutter, Tailwind CSS, HTML, CSS, jQuery
+
+**Databases**
+- PostgreSQL, SQL Server, Oracle (PL/SQL), MySQL, MariaDB
+
+**DevOps & Tools**
+- Docker, GitHub Actions, Nginx, Ubuntu Server, Git
+
+---
+
+## How I work
+
+- Prefer simple, readable solutions over clever ones  
+- Optimize based on real bottlenecks, not assumptions  
+- Focus on reliability and maintainability in production  
+- Comfortable owning features end to end
+
+---
+
+## Links
+
+- GitHub: https://github.com/jacobdeepu  
+- LinkedIn: https://www.linkedin.com/in/jacob-deepu  
+- Email: d2jdeepu@gmail.com
+
+---
+
+I’m currently open to remote engineering roles.
